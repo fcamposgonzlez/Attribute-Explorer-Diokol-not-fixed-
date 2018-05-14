@@ -1,0 +1,201 @@
+Marca,Precio,Color,Motor,Puertas
+Toyota,5000000,Azul,2500,3
+Nisan,1000000,Morado,2000,4
+Toyota,1000000,Negro,1000,3
+Hyundai,1000000,Azul,1500,2
+Hyundai,30000000,Negro,2000,4
+Hyundai,5000000,Naranja,1500,1
+Hyundai,30000000,Blanco,3000,3
+Hyundai,10000000,Morado,3000,5
+Porshe,1000000,Negro,3000,5
+Nisan,40000000,Verde,1500,2
+Nisan,40000000,Verde,2500,3
+Mercedes Benz,20000000,Azul,2000,5
+Nisan,40000000,Gris,2500,4
+Hyundai,20000000,Rojo,2500,3
+Hyundai,15000000,Blanco,1500,2
+Mercedes Benz,20000000,Verde,3000,3
+Toyota,15000000,Morado,1500,2
+Mercedes Benz,15000000,Verde,2000,2
+Nisan,20000000,Gris,1500,3
+Porshe,10000000,Gris,3000,3
+Subaru,30000000,Naranja,2000,5
+Toyota,10000000,Blanco,1500,1
+Subaru,30000000,Azul,2500,2
+Mercedes Benz,35000000,Naranja,2000,3
+Mercedes Benz,15000000,Azul,2000,5
+Subaru,25000000,Negro,1000,1
+Subaru,20000000,Rojo,3000,4
+Nisan,40000000,Verde,1000,2
+Porshe,25000000,Morado,1500,4
+Porshe,25000000,Naranja,1000,4
+Toyota,30000000,Blanco,1000,5
+Porshe,35000000,Naranja,1000,5
+Porshe,10000000,Gris,2000,4
+Toyota,20000000,Azul,3000,1
+Subaru,20000000,Rojo,1500,5
+Mercedes Benz,50000000,Gris,1500,2
+Nisan,50000000,Naranja,1000,3
+Toyota,25000000,Negro,2500,4
+Toyota,50000000,Verde,1500,5
+Mercedes Benz,40000000,Naranja,1500,2
+Toyota,20000000,Blanco,1500,1
+Subaru,30000000,Azul,2000,1
+Porshe,1000000,Negro,1000,3
+Mercedes Benz,5000000,Rojo,2500,1
+Mercedes Benz,15000000,Gris,2500,5
+Hyundai,1000000,Naranja,3000,5
+Nisan,1000000,Azul,3000,1
+Hyundai,20000000,Morado,1000,4
+Nisan,1000000,Gris,2000,5
+Toyota,5000000,Morado,1500,5
+Hyundai,35000000,Verde,2500,3
+Nisan,40000000,Azul,3000,5
+Toyota,10000000,Naranja,2000,1
+Porshe,25000000,Negro,3000,2
+Subaru,15000000,Naranja,3000,1
+Hyundai,50000000,Gris,1000,2
+Toyota,10000000,Naranja,1500,1
+Nisan,35000000,Blanco,2500,2
+Porshe,35000000,Negro,2500,5
+Nisan,40000000,Morado,1500,1
+Hyundai,10000000,Gris,2000,3
+Toyota,25000000,Rojo,1500,2
+Toyota,35000000,Morado,2500,5
+Subaru,1000000,Azul,2000,4
+Porshe,10000000,Verde,2000,4
+Nisan,50000000,Verde,1500,3
+Hyundai,20000000,Naranja,2000,2
+Porshe,40000000,Azul,2000,4
+Subaru,25000000,Verde,1000,3
+Nisan,40000000,Negro,1000,4
+Toyota,1000000,Verde,1500,3
+Subaru,40000000,Gris,1000,5
+Nisan,30000000,Verde,2500,2
+Toyota,15000000,Gris,3000,2
+Porshe,15000000,Gris,3000,5
+Hyundai,30000000,Blanco,2000,5
+Porshe,10000000,Verde,2000,3
+Porshe,40000000,Azul,1500,2
+Hyundai,30000000,Gris,1000,1
+Toyota,35000000,Rojo,2000,2
+Hyundai,50000000,Azul,2000,1
+Subaru,1000000,Rojo,3000,2
+Toyota,40000000,Morado,2000,2
+Subaru,40000000,Morado,1500,2
+Mercedes Benz,5000000,Gris,3000,5
+Porshe,15000000,Morado,1500,5
+Hyundai,10000000,Verde,1500,1
+Nisan,40000000,Negro,1000,1
+Toyota,1000000,Verde,2500,4
+Hyundai,10000000,Gris,3000,2
+Nisan,10000000,Gris,2500,1
+Nisan,50000000,Blanco,1500,5
+Subaru,50000000,Gris,2500,3
+Toyota,40000000,Rojo,2500,4
+Nisan,50000000,Negro,3000,5
+Subaru,50000000,Azul,2000,2
+Nisan,40000000,Morado,1500,4
+Porshe,15000000,Negro,3000,1
+Nisan,5000000,Verde,3000,3
+Hyundai,20000000,Verde,3000,3
+Hyundai,20000000,Gris,3000,5
+Toyota,50000000,Blanco,2500,3
+Subaru,40000000,Morado,1500,4
+Hyundai,10000000,Verde,2500,4
+Mercedes Benz,20000000,Naranja,2500,1
+Toyota,1000000,Azul,2500,5
+Hyundai,40000000,Rojo,2000,2
+Hyundai,25000000,Rojo,2000,1
+Toyota,5000000,Verde,2000,4
+Mercedes Benz,30000000,Negro,3000,5
+Toyota,15000000,Rojo,2000,1
+Nisan,10000000,Blanco,2000,1
+Toyota,20000000,Naranja,1500,2
+Mercedes Benz,35000000,Blanco,3000,1
+Toyota,25000000,Negro,2500,4
+Hyundai,30000000,Azul,3000,3
+Subaru,10000000,Morado,1500,4
+Toyota,25000000,Naranja,3000,1
+Porshe,5000000,Morado,1500,4
+Mercedes Benz,5000000,Rojo,1000,1
+Subaru,1000000,Verde,1500,1
+Toyota,40000000,Negro,2000,4
+Porshe,5000000,Morado,2500,3
+Subaru,10000000,Naranja,3000,3
+Nisan,15000000,Rojo,3000,1
+Toyota,1000000,Negro,2000,4
+Toyota,50000000,Negro,1500,5
+Nisan,5000000,Naranja,2500,2
+Mercedes Benz,15000000,Gris,2500,1
+Mercedes Benz,10000000,Azul,1000,4
+Mercedes Benz,50000000,Gris,1000,1
+Nisan,25000000,Gris,2000,5
+Mercedes Benz,25000000,Gris,1000,1
+Porshe,10000000,Negro,1000,4
+Nisan,30000000,Negro,3000,4
+Nisan,50000000,Azul,2000,1
+Porshe,5000000,Blanco,2000,2
+Mercedes Benz,1000000,Verde,1000,2
+Toyota,20000000,Morado,3000,3
+Toyota,15000000,Rojo,1500,5
+Porshe,25000000,Morado,1500,2
+Hyundai,1000000,Negro,2500,3
+Porshe,1000000,Rojo,2000,4
+Subaru,30000000,Rojo,1000,5
+Hyundai,40000000,Rojo,2000,3
+Mercedes Benz,1000000,Rojo,1500,1
+Hyundai,1000000,Rojo,1500,1
+Nisan,50000000,Rojo,2000,2
+Subaru,15000000,Rojo,3000,4
+Hyundai,20000000,Azul,1000,4
+Subaru,35000000,Verde,1000,3
+Subaru,5000000,Rojo,1000,4
+Nisan,1000000,Verde,1000,1
+Hyundai,15000000,Morado,3000,2
+Hyundai,5000000,Blanco,2000,2
+Toyota,40000000,Negro,1500,2
+Nisan,25000000,Naranja,3000,3
+Mercedes Benz,5000000,Azul,2500,2
+Toyota,25000000,Blanco,1000,1
+Nisan,25000000,Azul,1000,5
+Nisan,1000000,Gris,3000,4
+Nisan,50000000,Verde,1500,4
+Hyundai,15000000,Naranja,2000,3
+Hyundai,15000000,Gris,2500,4
+Toyota,1000000,Negro,3000,4
+Toyota,35000000,Negro,1000,1
+Subaru,25000000,Verde,2500,5
+Hyundai,25000000,Verde,2500,4
+Nisan,20000000,Blanco,1000,5
+Hyundai,25000000,Morado,2000,4
+Porshe,15000000,Azul,3000,2
+Nisan,40000000,Gris,1500,4
+Nisan,40000000,Azul,1000,3
+Mercedes Benz,25000000,Blanco,1000,1
+Mercedes Benz,40000000,Gris,1000,2
+Hyundai,35000000,Gris,1500,4
+Subaru,35000000,Morado,2000,3
+Subaru,30000000,Gris,2500,5
+Hyundai,1000000,Verde,1000,1
+Toyota,30000000,Negro,2500,3
+Subaru,25000000,Gris,1500,3
+Mercedes Benz,25000000,Naranja,3000,5
+Subaru,15000000,Naranja,3000,3
+Nisan,30000000,Rojo,2000,5
+Porshe,10000000,Rojo,2000,4
+Porshe,5000000,Blanco,1500,3
+Hyundai,25000000,Azul,1000,2
+Mercedes Benz,5000000,Morado,2000,4
+Hyundai,35000000,Naranja,2500,1
+Subaru,5000000,Naranja,2000,1
+Mercedes Benz,15000000,Verde,1500,1
+Porshe,1000000,Blanco,1500,4
+Hyundai,35000000,Blanco,2000,5
+Toyota,25000000,Azul,1000,3
+Subaru,30000000,Blanco,3000,5
+Porshe,30000000,Negro,2500,2
+Toyota,30000000,Naranja,1500,1
+Porshe,5000000,Blanco,2500,3
+Hyundai,35000000,Blanco,2500,3
+Porshe,50000000,Morado,1000,3
